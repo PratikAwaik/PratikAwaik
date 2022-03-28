@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratik-awaik-2ab91b18b/"> 
+  <a href="https://www.linkedin.com/in/pratikawaik/"> 
     <img align="center" alt="Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="https://github.com/PratikAwaik">
